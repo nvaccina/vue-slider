@@ -8,4 +8,7 @@ Bonus:<br>
 3- quando il mouse va in hover sullo slider, bloccare l’autoplay e farlo riprendere quando esce<br>
 
 ## Steps
-- 
+- Creare la parte html e css con il container dello slider, lo slider e i bottoni
+- Creare l'array con le foto da mostrare e il counter,
+- Dare l'azione al click dei pulsanti per cambiare foto in base al counter se si incrementa o decrementa,
+
