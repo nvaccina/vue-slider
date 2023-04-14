@@ -16,11 +16,16 @@ body{
   justify-content: center;
   align-items: center;
 }
+.container{
+  width: 50%;
+  height: 500px;
+  background-color: white;
+  display: flex;
+}
 .slider{
   position: relative;
-  width: 500px;
-  height: 500px;
-  border: 1px solid black;
+  width: 80%;
+  height: 100%;
 }
 img{
   width: 100%;
@@ -46,4 +51,20 @@ img{
   background-color: rgba(255, 255, 255, .4);
   border-radius: 50%;
   z-index: 100;
+}
+.thumbs{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 20%;
+  overflow: hidden;
+}
+.thumb{
+  height: calc(100% / 5) ;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.active{
+  border: 3px solid white;
+  opacity: 1;
 }

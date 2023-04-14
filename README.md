@@ -11,4 +11,5 @@ Bonus:<br>
 - Creare la parte html e css con il container dello slider, lo slider e i bottoni
 - Creare l'array con le foto da mostrare e il counter,
 - Dare l'azione al click dei pulsanti per cambiare foto in base al counter se si incrementa o decrementa,
+- Creare la thumb con le immagini piccole,
 
