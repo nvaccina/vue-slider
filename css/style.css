@@ -7,14 +7,15 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   background-color: rgb(88, 145, 252);
   text-align: center;
-  padding-top: 40px;
-  color: black;
+  color: white;
+}
+h1{
+  padding: 30px;
 }
 .main-wrapper{
   height: 100vh;
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 .container{
   width: 50%;

@@ -12,4 +12,8 @@ Bonus:<br>
 - Creare l'array con le foto da mostrare e il counter,
 - Dare l'azione al click dei pulsanti per cambiare foto in base al counter se si incrementa o decrementa,
 - Creare la thumb con le immagini piccole,
+- Al click su una thumb, visualizzare in grande l’immagine corrispondente,
+- Aggiungere l’autoplay allo slider: ogni 3 secondi, cambia immagine automaticamente,
+- Quando il mouse va in hover sullo slider, bloccare l’autoplay e farlo riprendere quando esce,
+
 
